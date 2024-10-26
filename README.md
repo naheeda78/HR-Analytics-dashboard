@@ -1,1 +1,1 @@
-# PowerBi_dashboard_project
+# HR-Analytics-Dashboard
