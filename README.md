@@ -4,6 +4,11 @@
 ## Objective:
 Help an organization to improve emloyee performance and imporove retention (reduce attrition) by creating an HR Analytics dashboard.
 
+
+* TECH STACK: 
+  - MS Excel
+  - PowerBI
+
 Here are the steps involved in creating HR analytics dashboard:
 
 ### 1. Slicer Filter for Department:
