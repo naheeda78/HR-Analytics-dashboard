@@ -21,6 +21,10 @@ Here are the steps involved in creating HR analytics dashboard:
 ### 3. Donut Chart for Attrition by Education Background:
    - Create a donut chart that represents the proportion of employees who have left the company based on their education background.
 
+     
+### 4. Column Chart for Attrition by Age Group:
+   - Develop a column chart to illustrate the attrition of employees categorized into different age groups.
+
       
        
        
