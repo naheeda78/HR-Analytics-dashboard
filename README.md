@@ -45,6 +45,10 @@ Here are the steps involved in creating HR analytics dashboard:
    ### 1. Department Analysis: 
    -By using the slicer filter for departments, you can analyze and compare various HR metrics across different departments. This helps identify departments with 
    -higher attrition rates, lower job satisfaction scores, or specific trends that require attention.
+
+   ### 2. Attrition Patterns by Education Background: 
+   -The donut chart showcasing attrition by education background can reveal if certain education qualifications have a higher attrition rate. This insight can be 
+    used to identify potential issues related to specific education backgrounds and take appropriate actions.
        
      
      
