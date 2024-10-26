@@ -49,6 +49,10 @@ Here are the steps involved in creating HR analytics dashboard:
    ### 2. Attrition Patterns by Education Background: 
    -The donut chart showcasing attrition by education background can reveal if certain education qualifications have a higher attrition rate. This insight can be 
     used to identify potential issues related to specific education backgrounds and take appropriate actions.
+
+    ### 3. Understanding Attrition by Age: 
+    -The bar chart displaying attrition by age group enables you to identify any age-related trends in employee attrition. It helps to pinpoint age groups that 
+    may require special attention, such as identifying potential issues related to career progression or work-life balance.
        
      
      
