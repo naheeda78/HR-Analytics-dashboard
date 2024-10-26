@@ -28,7 +28,9 @@ Here are the steps involved in creating HR analytics dashboard:
 
  ### 5. Bar Chart for Attrition by Job Role:
    - Create a bar chart to represent the attrition rate for each job role within the organization.
-      
+
+ ### 6. Area Chart for Attrition by year at company:
+   - Utilize a Area chart to visualize the trend of attrition based on employees' year at company.
        
        
      
