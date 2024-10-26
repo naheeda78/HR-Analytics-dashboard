@@ -39,7 +39,11 @@ Here are the steps involved in creating HR analytics dashboard:
 
  ### 6. Area Chart for Attrition by year at company:
    - Utilize a Area chart to visualize the trend of attrition based on employees year at company.
-       
+
+
+       # Insights from the HR Analytics Dashboard:
+         ### 1. Department Analysis: 
+By using the slicer filter for departments, you can analyze and compare various HR metrics across different departments. This helps identify departments with higher attrition rates, lower job satisfaction scores, or specific trends that require attention.
        
      
      
