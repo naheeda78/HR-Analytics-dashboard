@@ -5,9 +5,12 @@
 Help an organization to improve emloyee performance and imporove retention (reduce attrition) by creating an HR Analytics dashboard.
 
 
-* TECH STACK: 
-  - MS Excel
-  - PowerBI
+## **Tools Used**
+
+* Power BI
+* Power Query
+* Dax Query
+
 
 Here are the steps involved in creating HR analytics dashboard:
 
