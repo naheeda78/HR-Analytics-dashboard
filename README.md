@@ -18,14 +18,17 @@ Here are the steps involved in creating HR analytics dashboard:
      - Average Salary: Display the average salary of employees in each department.
      - Average Age of Employees: Present the average age of employees in each department.
     
-     3. Donut Chart for Attrition by Education Background:
-Create a donut chart that represents the proportion of employees who have left the company based on their education background.
-4. Column Chart for Attrition by Age Group:
-Develop a column chart to illustrate the attrition of employees categorized into different age groups.
-5. Area Chart for Attrition by year at company:
-Utilize a area chart to visualize the trend of attrition based on employees' year at company.
-6. Bar Chart for Attrition by Job Role:
-Create a bar chart to represent the attrition rate for each job role within the organization.
+ ### 3. Donut Chart for Attrition by Education Background:
+    -Create a donut chart that represents the proportion of employees who have left the company based on their education background.
+
+ ### 4. Column Chart for Attrition by Age Group:
+    -Develop a column chart to illustrate the attrition of employees categorized into different age groups.
+
+ ### 5. Area Chart for Attrition by year at company:
+    -Utilize a area chart to visualize the trend of attrition based on employees' year at company.
+
+### 6. Bar Chart for Attrition by Job Role:
+    -Create a bar chart to represent the attrition rate for each job role within the organization.
       
       
        
