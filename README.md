@@ -55,7 +55,7 @@ Here are the steps involved in creating HR analytics dashboard:
     may require special attention, such as identifying potential issues related to career progression or work-life balance.
 
  ### 4. Job Role Analysis: 
-    The bar chart presenting job roles, job satisfaction scores, and attrition status helps identify any specific job roles that experience higher attrition rates. 
+   The bar chart presenting job roles, job satisfaction scores, and attrition status helps identify any specific job roles that experience higher attrition rates. 
     This information can be used to assess factors such as workload, growth opportunities, or workplace culture that may impact employee retention.
        
      
