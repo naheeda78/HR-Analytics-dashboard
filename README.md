@@ -8,7 +8,7 @@ Here are the steps involved in creating HR analytics dashboard:
 1. Slicer Filter for Department:
 Implement a slicer filter on the dashboard that allows users to select specific departments for analysis and exploration.
 
-##2. Key Performance Indicators (KPIs):
+##2. ** Key Performance Indicators (KPIs)**:
 
 Include six KPIs that provide essential insights into the workforce:
 Total Employees: Display the total number of employees in each department.
