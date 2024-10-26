@@ -42,9 +42,9 @@ Here are the steps involved in creating HR analytics dashboard:
 
 
  # Insights from the HR Analytics Dashboard:
-    ### 1. Department Analysis: 
-     -By using the slicer filter for departments, you can analyze and compare various HR metrics across different departments. This helps identify departments with 
-     -higher attrition rates, lower job satisfaction scores, or specific trends that require attention.
+   ### 1. Department Analysis: 
+   -By using the slicer filter for departments, you can analyze and compare various HR metrics across different departments. This helps identify departments with 
+   -higher attrition rates, lower job satisfaction scores, or specific trends that require attention.
        
      
      
