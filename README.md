@@ -24,7 +24,10 @@ Here are the steps involved in creating HR analytics dashboard:
      
 ### 4. Column Chart for Attrition by Age Group:
    - Develop a column chart to illustrate the attrition of employees categorized into different age groups.
+     
 
+ ### 5. Bar Chart for Attrition by Job Role:
+   - Create a bar chart to represent the attrition rate for each job role within the organization.
       
        
        
