@@ -58,6 +58,9 @@ Here are the steps involved in creating HR analytics dashboard:
    The bar chart presenting job roles, job satisfaction scores, and attrition status helps identify any specific job roles that experience higher attrition rates. 
     This information can be used to assess factors such as workload, growth opportunities, or workplace culture that may impact employee retention.
 
+   ### 5. Attrition by Years at Company: 
+   Studying how the duration of employment impacts attrition. Identifying when employees are most prone to leaving can guide retention efforts.
+
 
    ## Ways to Retain Employees:
 ### 1. Competitive Compensation and Benefits: 
